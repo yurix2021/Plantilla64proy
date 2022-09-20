@@ -1,2 +1,2 @@
-# Plantilla64proy
-Clase Pro c84 plantilla-proyecto. 
+# spectagram-etapa-4
+solución del proyecto c84
